@@ -32,6 +32,7 @@ concept_reader = csv.reader(file)
 
 concepts_dict = {}  # Have Concepts and their names
 concept_index = {}  # Concepts and their corresponding index
+
 idx = 0
 for row in concept_reader:
     row_arr = row[0].split('\t')
