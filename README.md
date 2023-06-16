@@ -1,5 +1,5 @@
 # ImageCLEFmedical Caption 2022 Bologna
-http://ceur-ws.org/Vol-3180/paper-106.pdf
+[Link to Download the Paper](https://ceur-ws.org/Vol-3180/paper-106.pdf)
 
 # IMAGECLEF-MEDICAL-CAPTION2022
 
