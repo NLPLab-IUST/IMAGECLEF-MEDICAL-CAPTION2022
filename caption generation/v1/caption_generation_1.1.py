@@ -243,7 +243,6 @@ gen_test = TestDataGenerator(test_img_names, dataset_batchsize, folder_path=test
 
 """Train"""
 
-
 def predict_and_save(valid_res, test_res, epoch):
     """Evaluate validation result, save test result
 
